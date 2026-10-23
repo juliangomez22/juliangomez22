@@ -13,7 +13,4 @@ Aquí tenés algunas de las tecnologías con las que trabajo habitualmente:
 Lenguajes	JavaScript, HTML/CSS.
 Herramientas	Git, GitHub, VS Code.
 ---
-📫 Conectemos
-¡Siempre estoy abierto a charlar sobre todo, productividad o videojuegos!
-
-Si quieres contactarme, puedes enviarme un correo a julicasla22@hotmail.com.
+📫 Si quieres contactarme, puedes enviarme un correo a julicasla22@hotmail.com.
