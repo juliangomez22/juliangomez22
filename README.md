@@ -1,16 +1,19 @@
-## Hi there 👋
+¡Hola! Soy Julián👋
+Desarrollador Web JR. y estudiante de JavaScript by Coderhouse desde Buenos Aires, Argentina.
+¡Bienvenido a mi perfil de GitHub! Me apasiona la tecnología, la creación de sitios web y seguir superándome!.
+---
+🚀 Sobre mí
+💻 Desarrollador Web JR. 
+📚 Me gusta programar principalmente la sección front-end de los sitios web, sin embargo me gustaría seguir adquiriendo nuevos conocimientos y herramientas.
+🎮 En mis tiempos libres, me vas a encontrar disfrutando de algunos videojuegos.
+---
+🛠️ Tecnologías y Herramientas
+Aquí tenés algunas de las tecnologías con las que trabajo habitualmente:
 
-<!--
-**juliangomez22/juliangomez22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lenguajes	JavaScript, HTML/CSS.
+Herramientas	Git, GitHub, VS Code.
+---
+📫 Conectemos
+¡Siempre estoy abierto a charlar sobre todo, productividad o videojuegos!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Si quieres contactarme, puedes enviarme un correo a julicasla22@hotmail.com.
